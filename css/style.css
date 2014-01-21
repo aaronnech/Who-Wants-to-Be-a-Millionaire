@@ -1,0 +1,129 @@
+body {
+	background: black;
+	font-family: 'Roboto Slab', serif;
+}
+
+audio {
+	display: none;
+}
+
+.clear {
+	clear: both;
+}
+
+#game {
+	display: none;
+	text-align: center;
+}
+
+#top {
+	width: 960px;
+	margin: 0 auto;
+}
+
+#levels {
+	float: right;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	color: white;
+	text-align: right;
+	margin-top: 40px;
+	font-size: 1.3em;
+}
+
+.active {
+	color: green;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+#options {
+	width: 960px;
+	height: 70px;
+	margin: 0 auto;
+}
+
+#question-box {
+	background: #ddd;
+	width: 960px;
+	margin: 0 auto;
+	padding: 10px;
+	font-size: 1.5em;
+}
+
+.big-text {
+	color: #FF7E00;
+	font-size: 2em;
+	margin-right: 15px;
+}
+
+#money {
+	font-size: 1.9em;
+	font-weight: bold;
+	color: green;
+	float: right;
+	display: block;
+	height: 50px;
+	padding-top: 20px;
+}
+
+#logo {
+	width: 480px;
+	float: left;
+	margin-left: 240px;
+	margin-top: 60px;
+}
+
+#game-over {
+	display: none;
+	font-size: 8em;
+	font-weight: bold;
+	color: white;
+	width: 980px;
+	margin-top: 300px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+#fifty {
+	background: url('../img/50-50.png') no-repeat 0 0;
+}
+
+#phone-friend {
+	background: url('../img/phone-friend.png') no-repeat 0 0;
+}
+
+#audience {
+	background: url('../img/audience.png') no-repeat 0 0;
+}
+
+#answer-box {
+	color: white;
+	font-size: 1.3em;
+	text-align: left;
+	width: 960px;
+	margin: 0 auto;
+}
+
+#pre-start {
+	display: none;
+}
+
+.answer:hover {
+	text-decoration: underline;
+	cursor: pointer;
+}
+
+.options-button {
+	width: 64px;
+	height: 64px;
+	margin-left: 12px;
+	float: left;
+	background-position: 0 0;
+	cursor: pointer;
+}
+
+.options-button:hover {
+	background-position: 0 -64px !important;
+}
