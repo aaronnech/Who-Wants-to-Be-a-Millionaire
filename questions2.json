@@ -1,0 +1,774 @@
+{
+	"games" : [
+		{
+		    "questions" : [
+		        {
+		            "question" : "In what children's game are participants chased by someone designated \"It\"?",
+		            "content" : [
+		                "Tag",
+		                "Simon Says",
+		                "Charades",
+		                "Hopscotch"
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "On a radio, stations are changed by using what control?",
+		            "content" : [
+		                "Tuning",
+		                "Volume",
+		                "Bass",
+		                "Treble"
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "A college graduate who receives a B.S. degree holds what official title?",
+		            "content" : [
+		                "Bachelor of science",
+		                "Business scholar",
+		                "Baccalaureate staff",
+		                "Brainy student"
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "Which of the following telephone area codes is not a toll-free call in the United States?",
+		            "content" : [
+		                "800",
+		                "828",
+		                "877",
+		                "888"
+		            ],
+		            "correct" : 1
+		        },
+		        {
+		            "question" : "What part of the human body does glaucoma directly affect?",
+		            "content" : [
+		                "Ear",
+		                "Nose",
+		                "Throat",
+		                "Eye"
+		            ],
+		            "correct" : 3
+		        },
+		        {
+		            "question" : "What is the name of Tom Cruise's character in the \"Mission: Impossible\" movies?",
+		            "content" : [
+		                "Frank Mackey",
+		                "Mitch McDeere",
+		                "Joel Goodson",
+		                "Ethan Hunt"
+		            ],
+		            "correct" : 3
+		        },
+		        {
+		            "question" : "Which of these materials is used to make vests bulletproof?",
+		            "content" : [
+		                "Kevlar",
+		                "Lycra",
+		                "Gore-tex",
+		                "Polystyrene"
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "What animal's name means \"river horse\" in Greek?",
+		            "content" : [
+		                "Platypus",
+		                "Hippopotamus",
+		                "Rhinoceros",
+		                "Manatee"
+		            ],
+		            "correct" : 1
+		        },
+		        {
+		            "question" : "To take advantage of the earth's rotation, NASA launches most of its rockets in what direction?",
+		            "content" : [
+		                "North",
+		                "East",
+		                "South",
+		                "West"
+		            ],
+		            "correct" : 1
+		        },
+		        {
+		            "question" : "College football's Independence Bowl is played in what city?",
+		            "content" : [
+		                "Philadelphia",
+		                "Memphis",
+		                "Shreveport",
+		                "Tucson"
+		            ],
+		            "correct" : 2
+		        },
+		        {
+		            "question" : "Which of these best describes music that is played \"pianissimo\"?",
+		            "content" : [
+		                "Very soft",
+		                "Very fast",
+		                "Moderately loud",
+		                "Loud"
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "In Greek mythology, what is the relationship between Oedipus and Antigone?",
+		            "content" : [
+		                "Husband and wife",
+		                "Mentor and student",
+		                "Father and daughter",
+		                "Mother and son"
+		            ],
+		            "correct" : 2
+		        },
+		        {
+		            "question" : "The rococo style of art originated in what country?",
+		            "content" : [
+		                "France",
+		                "Italy",
+		                "Austria",
+		                "Spain"
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "In Norse mythology, Mjolnir was the name of what?",
+		            "content" : [
+		                "Thor's hammer",
+		                "Odin's horse",
+		                "Sigmund's sword",
+		                "Loki's magic necklace"
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "On July 12, 2000, Russia launched a rocket into space bearing the corporate logo of what company?",
+		            "content" : [
+		                "Intel",
+		                "Reebok",
+		                "Budweiser",
+		                "Pizza Hut"
+		            ],
+		            "correct" : 3
+		        }
+		    ]
+		},
+		{
+		    "questions" : [
+		        {
+		            "question" : "In the U.S., if it's not Daylight Saving Time, it's what?",
+		            "content" : [
+		                "Borrowed time",
+		                "Overtime",
+		                "Standard time",
+		                "Party time"
+		            ],
+		            "correct" : 2
+		        },
+		        {
+		            "question" : "Which part of the body are you most likely to \"stub\"?",
+		            "content" : [
+		                "Toe",
+		                "Knee",
+		                "Elbow",
+		                "Brain"
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "Put your seat backs and tray tables into their full upright and locked position is usually heard where?",
+		            "content" : [
+		                "Grade school",
+		                "Planetarium",
+		                "Airplane",
+		                "Thanksgiving dinner"
+		            ],
+		            "correct" : 2
+		        },
+		        {
+		            "question" : "In U.S. personal ads, what do the letters ISO traditionally represent? ",
+		            "content" : [
+		                "I'm someone ordinary",
+		                "In search of",
+		                "I seek one",
+		                "It seems odd"
+		            ],
+		            "correct" : 1
+		        },
+		        {
+		            "question" : "A person who earns a Ph.D. is literally a certified doctor of what?",
+		            "content" : [
+		                "Photography",
+		                "Pharmacology",
+		                "Philosophy",
+		                "Psychology"
+		            ],
+		            "correct" : 2
+		        },
+		        {
+		            "question" : "British actor/comedian Rowan Atkinson plays what famous character?",
+		            "content" : [
+		                "Mr. Nut",
+		                "Mr. Bean",
+		                "Mr. Pea",
+		                "Mr. Sprout"
+		            ],
+		            "correct" : 1
+		        },
+		        {
+		            "question" : "What is the only Great Lake that lies wholly within the U.S.?",
+		            "content" : [
+		                "Lake Erie",
+		                "Lake Huron",
+		                "Lake Michigan",
+		                "Lake Superior"
+		            ],
+		            "correct" : 2
+		        },
+		        {
+		            "question" : "Roy Allen and Frank Wright founded a company that began producing what beverage in the 1920s?",
+		            "content" : [
+		                "Cocoa",
+		                "Root beer",
+		                "Coffee",
+		                "Whiskey"
+		            ],
+		            "correct" : 1
+		        },
+		        {
+		            "question" : "Which two countries currently account for more than a third of Earth's population?",
+		            "content" : [
+		                "China and Russia",
+		                "India and China",
+		                "India and Pakistan",
+		                "China and Brazil"
+		            ],
+		            "correct" : 1
+		        },
+		        {
+		            "question" : "Go-Gurt, yogurt in a tube, is manufactured by what brand?",
+		            "content" : [
+		                "Dannon",
+		                "Breyer's",
+		                "Yoplait",
+		                "TCBY"
+		            ],
+		            "correct" : 2
+		        },
+		        {
+		            "question" : "Acadia National Park is located in what U.S. state?",
+		            "content" : [
+		                "Maine",
+		                "Michigan",
+		                "Arkansas",
+		                "Louisiana"
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "The National Hockey League's trophy for league's leading goal scorer is named for what player?",
+		            "content" : [
+		                "Wayne Gretzky",
+		                "Maurice Richard",
+		                "Gordie Howe",
+		                "Mario Lemieux"
+		            ],
+		            "correct" : 1
+		        },
+		        {
+		            "question" : "The name of the German news magazine \"Der Spiegel\" means what in English?",
+		            "content" : [
+		                "The Observer",
+		                "The Mirror",
+		                "The Sun",
+		                "The Times"
+		            ],
+		            "correct" : 1
+		        },
+		        {
+		            "question" : "Reacting with virtually every other element, what is the most reactive chemical element?",
+		            "content" : [
+		                "Fluorine",
+		                "Oxygen",
+		                "Phosphorus",
+		                "Sodium"
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "What taxonomic family do human beings belong to?",
+		            "content" : [
+		                "Chordata",
+		                "Mammalia",
+		                "Primate",
+		                "Hominidae"
+		            ],
+		            "correct" : 3
+		        }
+		    ]
+		},
+		{
+		    "questions" : [
+		        {
+		            "question" : "An albino gorilla usually has what color fur?",
+		            "content" : [
+		                "Brown",
+		                "Black",
+		                "White",
+		                "Golden"
+		            ],
+		            "correct" : 2
+		        },
+		        {
+		            "question" : "When you enter a situation without a definite plan of action, you are said to be \"playing it by\" what?",
+		            "content" : [
+		                "Fingertips",
+		                "Ear",
+		                "Nose",
+		                "Mouth"
+		            ],
+		            "correct" : 1
+		        },
+		        {
+		            "question" : "A serial story in which each installment ends at a point of suspense is called a what??",
+		            "content" : [
+		                "Ledge-hanger",
+		                "Rock-hanger",
+		                "Cliff-hanger",
+		                "Clothes hanger"
+		            ],
+		            "correct" : 2
+		        },
+		        {
+		            "question" : "What part of speech is the word \"and\"?",
+		            "content" : [
+		                "Verb",
+		                "Noun",
+		                "Preposition",
+		                "Conjunction"
+		            ],
+		            "correct" : 3
+		        },
+		        {
+		            "question" : "In basic education, how many of the \"Three R's\" actually begin with the letter R?",
+		            "content" : [
+		                "0",
+		                "1",
+		                "2",
+		                "3"
+		            ],
+		            "correct" : 1
+		        },
+		        {
+		            "question" : "U.S. battleships are traditionally named for what?",
+		            "content" : [
+		                "Presidents",
+		                "Constellations",
+		                "States",
+		                "War heroes"
+		            ],
+		            "correct" : 2
+		        },
+		        {
+		            "question" : "Athletic shoe maker Nike has its headquarters in what state?",
+		            "content" : [
+		                "New York",
+		                "Washington",
+		                "California",
+		                "Oregon"
+		            ],
+		            "correct" : 3
+		        },
+		        {
+		            "question" : "The Strait of Gibraltar connects the Atlantic Ocean and what sea?",
+		            "content" : [
+		                "Mediterranean",
+		                "Red",
+		                "North",
+		                "Black"
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "A scientific barometer measures pressure in which of the following units?",
+		            "content" : [
+		                "Baroms",
+		                "Farads",
+		                "Angstroms",
+		                "Millibars"
+		            ],
+		            "correct" : 3
+		        },
+		        {
+		            "question" : "The active ingredient in antiperspirants is usually a salt of which element?",
+		            "content" : [
+		                "Sodium",
+		                "Cadmium",
+		                "Calcium",
+		                "Aluminum"
+		            ],
+		            "correct" : 3
+		        },
+		        {
+		            "question" : "What continent has the most countries?",
+		            "content" : [
+		                "Europe",
+		                "Asia",
+		                "Africa",
+		                "South America"
+		            ],
+		            "correct" : 2
+		        },
+		        {
+		            "question" : "The 1999 film \"10 Things I Hate About You\" was inspired by what Shakespeare play?",
+		            "content" : [
+		                "Measure for Measure",
+		                "Othello",
+		                "Love's Labour's Lost",
+		                "The Taming of the Shrew"
+		            ],
+		            "correct" : 3
+		        },
+		        {
+		            "question" : "What architect spent over 40 years building the Church of the Sagrada Familia in Barcelona?",
+		            "content" : [
+		                "Antonio Gaudi",
+		                "Mies van der Rohe",
+		                "Rafael Moneo",
+		                "Le Corbusier"
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "What was the name of the first spacecraft to carry a human being into space? ",
+		            "content" : [
+		                "Soyuz 4",
+		                "Vostok 1",
+		                "Salyut 3",
+		                "Sputnik 10"
+		            ],
+		            "correct" : 1
+		        },
+		        {
+		            "question" : "One of the best preserved fossil formations in the world, the Burgess Shale is located where?",
+		            "content" : [
+		                "Canada",
+		                "United States",
+		                "England",
+		                "France"
+		            ],
+		            "correct" : 0
+		        }
+		    ]
+		},
+		{
+		    "questions" : [
+		        {
+		            "question" : "Which of the following consumer goods is the Gerber Products Co. best known for?",
+		            "content" : [
+		                "Potato chips",
+		                "Fine wines",
+		                "Chewing gum",
+		                "Baby Food"
+		            ],
+		            "correct" : 3
+		        },
+		        {
+		            "question" : "In which of these household appliances would you find a lint screen?",
+		            "content" : [
+		                "Dishwasher",
+		                "Microwave oven",
+		                "Clothes dryer",
+		                "Trash compactor"
+		            ],
+		            "correct" : 2
+		        },
+		        {
+		            "question" : "By definition, what does a meteorologist predict?",
+		            "content" : [
+		                "Stock fluctuations",
+		                "Earthquakes",
+		                "Weather changes",
+		                "Meteors"
+		            ],
+		            "correct" : 2
+		        },
+		        {
+		            "question" : "The magazine launched in 2000 by Oprah Winfrey is titled what?",
+		            "content" : [
+		                "Q",
+		                "W",
+		                "X",
+		                "O"
+		            ],
+		            "correct" : 3
+		        },
+		        {
+		            "question" : "On a traditional round clock, what number is 180 degrees from the number 5?",
+		            "content" : [
+		                "2",
+		                "6",
+		                "9",
+		                "11"
+		            ],
+		            "correct" : 3
+		        },
+		        {
+		            "question" : "The comic strip character Garfield the cat hates what day of the week? ",
+		            "content" : [
+		                "Sunday",
+		                "Monday",
+		                "Thursday",
+		                "Friday"
+		            ],
+		            "correct" : 1
+		        },
+		        {
+		            "question" : "A renal transplant involves the replacement of what human organ?",
+		            "content" : [
+		                "Kidney",
+		                "Liver",
+		                "Pancreas",
+		                "Heart"
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "In Greek mythology, who was the Muse of tragedy? ",
+		            "content" : [
+		                "Melpomene",
+		                "Polyhymnia",
+		                "Thalia",
+		                "Euterpe"
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "In the 1993 movie \"Jurassic Park,\" DNA from what animal is used to fill gaps in recovered dinosaur DNA?",
+		            "content" : [
+		                "Frog",
+		                "Iguana",
+		                "Crocodile",
+		                "Turkey"
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "Semiotics is the study of what?",
+		            "content" : [
+		                "Apes",
+		                "Word origins",
+		                "Signs and symbols",
+		                "Flags"
+		            ],
+		            "correct" : 2
+		        },
+		        {
+		            "question" : "What traditionally takes place on the first Monday in October?",
+		            "content" : [
+		                "New York City Marathon",
+		                "Columbus Day",
+		                "Supreme Court opening",
+		                "Canadian Thanksgiving"
+		            ],
+		            "correct" : 2
+		        },
+		        {
+		            "question" : "The horn of a rhinoceros is made up primarily of the same material as what?",
+		            "content" : [
+		                "Bone",
+		                "Ivory",
+		                "Cartilage",
+		                "Keratin"
+		            ],
+		            "correct" : 3
+		        },
+		        {
+		            "question" : "In 1927, who was named \"Time\" magazine's first Man of the Year?",
+		            "content" : [
+		                "Charlie Chaplin",
+		                "Al Jolson",
+		                "Babe Ruth",
+		                "Charles Lindbergh"
+		            ],
+		            "correct" : 3
+		        },
+		        {
+		            "question" : "By definition, a barrel holds how many gallons of crude oil?",
+		            "content" : [
+		                "36",
+		                "42",
+		                "48",
+		                "54"
+		            ],
+		            "correct" : 1
+		        },
+		        {
+		            "question" : "Called by Czar Nicholas II in 1899, the first \"International Peace Congress\" was held where? ",
+		            "content" : [
+		                "Yalta",
+		                "The Hague",
+		                "St. Petersburg",
+		                "Geneva"
+		            ],
+		            "correct" : 1
+		        }
+		    ]
+		},
+		{
+		    "questions" : [
+		        {
+		            "question" : "What kind of animal traditionally lives in a sty?",
+		            "content" : [
+		                "Cow",
+		                "Pig",
+		                "Fox",
+		                "Teenager"
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "What name is legally used to indicate a woman whose name is unknown?",
+		            "content" : [
+		                "Joan Doe",
+		                "Jane Doe",
+		                "Jean Doe",
+		                "Lotta Doe"
+		            ],
+		            "correct" : 1
+		        },
+		        {
+		            "question" : "The EPA urges people to produce less waste by engaging in efforts to reduce, reuse and what?",
+		            "content" : [
+		                "Recycle",
+		                "Rewrap",
+		                "Repossess",
+		                "Retire"
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "For 10 years, Cape Canaveral was renamed for which American president?",
+		            "content" : [
+		                "Dwight D. Eisenhower",
+		                "John F. Kennedy",
+		                "Richard M. Nixon",
+		                "Lyndon B. Johnson"
+		            ],
+		            "correct" : 1
+		        },
+		        {
+		            "question" : "People who advocate war are commonly referred to as what?",
+		            "content" : [
+		                "Doves",
+		                "Hawks",
+		                "Rams",
+		                "Gorillas"
+		            ],
+		            "correct" : 1
+		        },
+		        {
+		            "question" : "In nautical terms, a fathom is equivalent to how many feet?",
+		            "content" : [
+		                "4",
+		                "6",
+		                "10",
+		                "20"
+		            ],
+		            "correct" : 1
+		        },
+		        {
+		            "question" : "Which of the following comedians was never a regular cast member of TV's \"Saturday Night Live\"?",
+		            "content" : [
+		                "Steve Martin",
+		                "Julia Louis-Dreyfus",
+		                "Martin Short",
+		                "Jim Belushi"
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "What part of a goose or duck is fattened to produce \"foie gras\"?",
+		            "content" : [
+		                "Kidney",
+		                "Liver",
+		                "Stomach",
+		                "Tongue"
+		            ],
+		            "correct" : 1
+		        },
+		        {
+		            "question" : "What components of blood are responsible for blood clotting?",
+		            "content" : [
+		                "White blood cells",
+		                "Red blood cells",
+		                "Platelets",
+		                "Lymphocytes"
+		            ],
+		            "correct" : 2
+		        },
+		        {
+		            "question" : "In Ernest Hemingway's novella \"The Old Man and the Sea,\" what kind of creature does the title character hook?",
+		            "content" : [
+		                "Shark",
+		                "Marlin",
+		                "Tuna",
+		                "Whale"
+		            ],
+		            "correct" : 1
+		        },
+		        {
+		            "question" : "CREEP was an organization to aid the re-election of what incumbent U.S. president?",
+		            "content" : [
+		                "Richard Nixon",
+		                "Ronald Reagan",
+		                "George Bush",
+		                "Bill Clinton"
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "What is a biretta?",
+		            "content" : [
+		                "Firearm",
+		                "Clerical cap",
+		                "Tropical bird",
+		                "Lumberjack's tool"
+		            ],
+		            "correct" : 1
+		        },
+		        {
+		            "question" : "The highest mountain in South America is located in what country?",
+		            "content" : [
+		                "Brazil",
+		                "Peru",
+		                "Ecuador",
+		                "Argentina"
+		            ],
+		            "correct" : 3
+		        },
+		        {
+		            "question" : "The shortest distance between two points lying on a curved or flat surface is what type of line?",
+		            "content" : [
+		                "Stochastic",
+		                "Isometric",
+		                "Discrete",
+		                "Geodesic"
+		            ],
+		            "correct" : 3
+		        },
+		        {
+		            "question" : "In 1893, what country was the first to grant women the right to vote?",
+		            "content" : [
+		                "Canada",
+		                "Sweden",
+		                "New Zealand",
+		                "Denmark"
+		            ],
+		            "correct" : 2
+		        }
+		    ]
+		}
+	]
+}
