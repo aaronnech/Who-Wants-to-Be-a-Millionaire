@@ -23,22 +23,22 @@ The question bank is simply an array of "games". You can have as many "games" as
 
 Each array of questions is in the following format.
 
-	1.	"content" is the key for the possible answer texts. "content" must have a length of 4 (4 multiple choices).
-	2.	The question prompt text is located in the key "question"
-	3.	The zero-based index of the value in "content" that is the correct answer is located in the key "correct"
+1.	"content" is the key for the possible answer texts. "content" must have a length of 4 (4 multiple choices).
+2.	The question prompt text is located in the key "question"
+3.	The zero-based index of the value in "content" that is the correct answer is located in the key "correct"
 
 
 
-    {
-        "question" : "What is Aurora Borealis commonly known as?",
-        "content" : [
-            "Fairy Dust",
-            "Northern Lights",
-            "Book of ages",
-            "a Game of Thrones main character"
-        ],
-        "correct" : 1
-    }
+	    {
+	        "question" : "What is Aurora Borealis commonly known as?",
+	        "content" : [
+	            "Fairy Dust",
+	            "Northern Lights",
+	            "Book of ages",
+	            "a Game of Thrones main character"
+	        ],
+	        "correct" : 1
+	    }
 
 
 # Who Wants to Be a Millionaire Materials
