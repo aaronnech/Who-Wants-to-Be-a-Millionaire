@@ -5,6 +5,11 @@ To "install" this game, you will need a simple webserver that can serve static f
 
 The game loads a question bank (default questions.json) in the same root directory as index.html. This file contains the game-seperated question sets described in the next section.
 
+# Scraping / Question bank
+
+To make question harvesting easier, I included a python script in /util that scrapes indiabix.com for questions.
+
+The root directory has questions.json which is the main question file, and another question set stored in questions2.json. The program only reads questions.json.
 
 # Question format
 
