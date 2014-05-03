@@ -1,0 +1,97 @@
+{
+    "answer": 2,
+    "content": [
+        "energy",
+        "speed",
+        "distance",
+        "intensity"
+    ],
+    "question": "Light Year is related to"
+},
+{
+    "answer": 2,
+    "content": [
+        "a type of asset that is in cash in the current account of the commercial bank",
+        "a type of asset that is in the form of a deposit in the current account of the commercial bank",
+        "either of these",
+        "None of the above"
+    ],
+    "question": "Liquid asset is"
+},
+{
+    "answer": 1,
+    "content": [
+        "largest airport",
+        "highest airport",
+        "lowest airport",
+        "busiest airport"
+    ],
+    "question": "Lhasa airport at Tibet is the World's"
+},
+{
+    "answer": 1,
+    "content": [
+        "International Labour Organisation",
+        "Universal Postal Union",
+        "World Health Organisation",
+        "World Meteorological Organisation"
+    ],
+    "question": "Of the various agencies related to the United Nations, the one that has the longest period is"
+}
+
+,
+{
+    "answer": 0,
+    "content": [
+        "first hospital on wheels in the world",
+        "first railway express",
+        "oldest train",
+        "None of the above"
+    ],
+    "question": "Jeevan Rekha (Life line) express is"
+}
+,
+{
+    "answer": 0,
+    "content": [
+        "song recordings",
+        "singing songs",
+        "songs composing",
+        "None of the above"
+    ],
+    "question": "Lata Mangeshkar holds the world record for maximum number of ____"
+}
+,
+{
+    "answer": 0,
+    "content": [
+        "13,92,000",
+        "10,92,000",
+        "71,500",
+        "1,32,000"
+    ],
+    "question": "On August 1, 2003, the total strength of India's armed forces approximate to"
+}
+,
+{
+    "answer": 3,
+    "content": [
+        "one the most popular Presidents of USA",
+        "the first Roman Catholic President",
+        "writer of Why England slept and Profile in Courage",
+        "All the above"
+    ],
+    "question": "John F. Kennedy was"
+}
+,
+{
+    "answer": 3,
+    "content": [
+        "4 BC",
+        "4 AD",
+        "20 AD",
+        "1 AD"
+    ],
+    "question": "Jesus Christ was crucified in"
+}
+,
